@@ -101,7 +101,6 @@ if __name__ == "__main__":
 
     # Initialize SudokuSolver with fetched grid values
     solver = SudokuSolver(grid)
-    time.sleep(1)
     print("Solving...")
     solver.solve()
 
