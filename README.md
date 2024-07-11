@@ -2,6 +2,11 @@
 
 This Python script automates solving Sudoku puzzles from [WebSudoku](https://www.websudoku.com/) using browser automation with Selenium and data extraction with BeautifulSoup.
 
+## Demo
+
+[![Solver](https://github.com/AdityasWorks/WebSudoku-Solver/blob/main/demo/Websudoku%20Demo.mp4)](https://github.com/AdityasWorks/WebSudoku-Solver/assets/111555593/30bca1a3-5304-46af-9957-167d77b8d5bc
+)
+
 ## Features
 
 - **Automated Sudoku Solving:** Solves Sudoku puzzles from WebSudoku based on user-provided difficulty level and puzzle ID.
