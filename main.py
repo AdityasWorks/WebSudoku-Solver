@@ -25,7 +25,6 @@ class SudokuSolver:
 
         counter = []
 
-        # fill the grid by pressing the numbers
         for num in final:
             pg.typewrite(str(int(num)))
             pg.hotkey("right")
