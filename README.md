@@ -24,11 +24,6 @@ Ensure you have Python 3.x installed along with the following Python libraries (
 
 You can install these dependencies using the provided `requirements.txt` file:
 
-```bash
-
-pip install -r requirements.txt
-
-```
 ## Usage
 
 1. **Clone the Repository:**
